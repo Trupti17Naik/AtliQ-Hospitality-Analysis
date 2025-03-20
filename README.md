@@ -17,3 +17,21 @@ AtliQ Grands will recruit a skilled data analytics team to examine historical da
 
  By leveraging these data-driven insights, AtliQ Grands expects to enhance their pricing strategies, better understand their customer base, and make more informed business decisions. So that they can regain market share, increase revenue, and compete more effectively in the luxury and business hotel sector
  # Business Metrics 
+ Occupancy%
+ 
+ Revpar
+ 
+ DSRN
+ 
+ DBRN
+ 
+ ADR
+ 
+ Realisation%
+
+ # Tools Used
+ Data Source : Excel
+ 
+ Visualization :Power BI 
+
+ 
